@@ -20,6 +20,8 @@
 <p align="center">
   <a href="https://github.com/rar-rahul/" target="blank"><img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="30" width="40" /></a>
  
-  <a href="https://www.linkedin.com/in/rahul-raut23/" target="blank"><img align="center" src="https://media.giphy.com/media/0R7mnx1ZvrBG42PbNV/giphy.gif" alt="https://www.linkedin.com/in/rahul-raut23/" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/rahul-raut23/" target="blank">
+  <img align="center" src="https://media.giphy.com/media/0R7mnx1ZvrBG42PbNV/giphy.gif" alt="https://www.linkedin.com/in/rahul-raut23/" height="40" width="50" />
+  </a>
  
 </p>
