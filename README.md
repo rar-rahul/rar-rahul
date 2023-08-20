@@ -3,13 +3,13 @@
 </p>
 <h1 align="center">Hi 👋, I'm Rahul Raut</h1>
 
-<h3 align="center">👀 I have a Great Interest in Web Development and APIs </h3>
+<h3 align="center">👀 A passionate full-stack developer </h3>
 
 
 - 🔭 Currently working on **Web Development using React,NodeJs,MongoDB and Rest APIs**
 - 👯  I am a learner📝 and enthusiastic to learn new tech.**
-- 🤝 Looking for help with **Open Source Contributions**
--    Experience with popular React.js workflows (Redux) Experience with React Hooks and      building custom react-hooks Familiarity with newer specifications of ECMAScript Knowledge of  server-side rendering
+- 🤝 **Open Source Contributor**
+-    Experience with popular React.js workflows (Redux) Experience with React Hooks and building custom react-hooks Familiarity with newer specifications of ECMAScript Knowledge of  server-side rendering
 -Ability to understand business requirements and translate them into technical requirements Familiarity with common tools such as Git, Bitbucket, JIRA
 
 - 👨‍💻 All of my projects are available at [https://github.com/rar-rahul/](https://github.com/rar-rahul//)
